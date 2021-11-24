@@ -1,5 +1,7 @@
 # AVCO
 
+Additive or harmonicsVCO
+
 Power supply:29mA
 
 knob1: fundamental frequency
